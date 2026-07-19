@@ -1,7 +1,7 @@
 # CeMINE
 LLM-assisted mining of literature-derived CeO₂ synthesis records for nanocrystal morphology prediction, with machine-learning models and experimental validation.
 
-<img width="10420" height="9597" alt="TOC graphic" src="https://github.com/user-attachments/assets/3f063488-4c34-459d-804d-489112054067" />
+<img width="5420" height="4597" alt="TOC graphic" src="https://github.com/user-attachments/assets/3f063488-4c34-459d-804d-489112054067" />
 
 
 ## Contents
