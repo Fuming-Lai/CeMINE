@@ -44,7 +44,7 @@ python main.py \
   --random_state 42
 ```
 
-The input data must contain the target column `target_morphology`, the paper identifier `paper_id`, and the required synthesis feature columns. Every sample must have a valid `paper_id`; otherwise, the program stops to prevent data leakage between the training and test sets.
+The input data must contain the target column `target_morphology`, the paper identifier `paper_id`, and the required synthesis feature columns. Every sample must have a valid `paper_id`. Otherwise, the program stops to prevent data leakage between the training and test sets.
 
 ## License
 
