@@ -62,4 +62,4 @@ This repository does not include copyrighted source papers by default. If the tr
 
 ## License
 
-The source code is released under the [MIT License](LICENSE). This software license does not automatically apply to datasets or source papers, which remain subject to their respective terms.
+The source code is released under the [MIT License](LICENSE).
